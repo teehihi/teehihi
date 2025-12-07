@@ -157,10 +157,10 @@ Game phiêu lưu mê cung với AI Hunter, sử dụng thuật toán tìm đư�
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=teehihi&custom_title=Tee's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F8D866&title_color=F85D7F&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3DAEF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+reach+out!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Footer" />
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
