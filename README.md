@@ -37,7 +37,7 @@ const tee = {
         tools: ["Git", "GitHub", "Postman", "VS Code", "IntelliJ IDEA"]
     },
     currentFocus: "Full Stack Web Development & AI Integration",
-    funFact: "Mình có thể code cả ngày với một tách cà phê ☕"
+    funFact: "Mình có thể code cả ngày với một chiếc MÁC BÚC PRO ☕"
 };
 ```
 
