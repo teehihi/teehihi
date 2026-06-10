@@ -23,21 +23,22 @@
 const tee = {
     pronouns: "He" | "Him",
     location: "Vietnam 🇻🇳",
-    code: ["Java", "JavaScript", "Python", "C#", "HTML/CSS"],
+    code: ["Java", "JavaScript", "TypeScript", "Python", "HTML/CSS"],
     technologies: {
-        backEnd: {
-            java: ["Spring Boot", "RESTful API", "Hibernate", "JPA"],
-            python: ["AI/ML", "Game Development"]
-        },
-        frontEnd: {
-            js: ["React", "jQuery", "AJAX", "Vanilla JS"],
-            css: ["Bootstrap", "Tailwind CSS", "Responsive Design"]
-        },
-        databases: ["MySQL", "SQL Server", "MongoDB"],
-        tools: ["Git", "GitHub", "Postman", "VS Code", "IntelliJ IDEA"]
+    backEnd: {
+        java: ["Spring Boot", "Spring Data JPA", "RESTful API", "JWT Authentication"],
+        javascript: ["Node.js", "Express.js", "RESTful API", "Socket.IO"],
+        python: ["OpenCV", "YOLO", "AI/ML"]
     },
+    frontEnd: {
+        js: ["React", "Vite", "JavaScript (ES6+)", "AJAX"],
+        css: ["Tailwind CSS", "Bootstrap", "Responsive Design"]
+    },
+    databases: ["MySQL", "MongoDB", "SQL Server", "FireBase"],
+    tools: ["Git", "GitHub", "Postman"]
+},
     currentFocus: "Full Stack Web Development & AI Integration",
-    funFact: "Mình có thể code cả ngày với một chiếc MÁC BÚC PRO ☕"
+    funFact: "Mình có thể code cả ngày với một chiếc MÁC BÚC PRO"
 };
 ```
 
@@ -48,16 +49,19 @@ const tee = {
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,js,python,cs,html,css,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,python,cs&theme=dark" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,jquery,bootstrap,tailwind,hibernate&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,threejs,spring,hibernate&theme=dark" />
 
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,maven&theme=dark" />
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,docker,cloudflare&theme=dark" />
 
 ### IDEs & Editors
-<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,visualstudio,sublime&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,sublime,figma,ps,ai&theme=dark" />
 
 </div>
 
@@ -85,40 +89,55 @@ Hệ thống ôn tập tự động dưới dạng các Quiz, hỗ trợ Flashca
 - JavaScript
 - MongoDB, ExpressJS
 
+**Repository:** [UniQuizzHackathon](https://github.com/teehihi/UniQuizzHackathon)
 </td>
 <td width="50%">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Pot%20of%20Food.png" width="20" /> DacSanViet
-Website thương mại điện tử bán đặc sản Việt Nam với giỏ hàng, thanh toán và quản lý đơn hàng hoàn chỉnh.
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Pot%20of%20Food.png" width="20" /> DacSanViet Mobile App
+
+Ứng dụng thương mại điện tử bán đặc sản Việt Nam với các tính năng mua sắm, thanh toán và thông báo thời gian thực.
 
 **Tech Stack:**
-- Springboot, Maven
-- AJAX, jQuery, Bootstrap
-- SQLServer Database
+- React Native
+- Node.js / Express.js
+- MySQL
+- Socket.IO
+
+**Repository:** [dacsanviet-app-ui](https://github.com/teehihi/dacsanviet-app-ui)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud%20with%20Rain.png" width="20" /> WeatherChecking
-Ứng dụng kiểm tra thời tiết real-time với giao diện đẹp mắt, tích hợp Weather API.
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" width="20" /> XeNow
+
+Hệ thống quản lý và cho thuê xe trực tuyến được phát triển theo mô hình Fullstack, cung cấp trải nghiệm đặt xe nhanh chóng và quản lý vận hành hiệu quả.
 
 **Tech Stack:**
-- Weather API Integration
-- JavaScript, React + Vite, Tailwindcss
-- Responsive Design
+- Frontend: React + Vite
+- Backend: Spring Boot, Spring Data JPA
+- Database: MySQL
+- Authentication: JWT
+- API: RESTful API
+
+**Repository:** [xe-now-ui](https://github.com/teehihi/xe-now-ui) & [xe-now-be](https://github.com/teehihi/xe-now-be)
 
 </td>
 <td width="50%">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="20" /> ChayNgayDi_MazeHunter
-Game phiêu lưu mê cung với AI Hunter, sử dụng thuật toán tìm đường thông minh.
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="20" /> PhoenixVision Fire Detection
+
+Hệ thống cảnh báo cháy thông minh sử dụng YOLO và xử lý ảnh thời gian thực.
 
 **Tech Stack:**
 - Python
-- Pygame
-- AI Pathfinding Algorithm
+- YOLO
+- OpenCV
+- Real-time Image Processing
+- Fire & Smoke Detection
+
+**Repository:** [phoenix-vision-fire-detection](https://github.com/teehihi/phoenix-vision-fire-detection)
 
 </td>
 </tr>
