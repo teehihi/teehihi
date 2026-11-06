@@ -158,14 +158,6 @@ Hệ thống cảnh báo cháy thông minh sử dụng YOLO và xử lý ảnh t
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" /> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=teehihi&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
-<br/>
-
 ## 📊 Contribution Activity
 
 <div align="center">
@@ -173,10 +165,6 @@ Hệ thống cảnh báo cháy thông minh sử dụng YOLO và xử lý ảnh t
 ![](https://raw.githubusercontent.com/teehihi/teehihi/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teehihi&custom_title=Tee's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F8D866&title_color=F85D7F&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3DAEF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+reach+out!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Footer" />
 </div>
