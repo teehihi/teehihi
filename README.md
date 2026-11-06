@@ -158,6 +158,23 @@ Hệ thống cảnh báo cháy thông minh sử dụng YOLO và xử lý ảnh t
 
 <br/>
 
+## 📈 GitHub Stats
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teehihi&theme=radical" width="100%" alt="GitHub Stats" />
+</td>
+<td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teehihi&theme=radical" width="100%" alt="Repos per Language" />
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
 ## 📊 Contribution Activity
 
 <div align="center">
