@@ -145,6 +145,22 @@ Hệ thống cảnh báo cháy thông minh sử dụng YOLO và xử lý ảnh t
 
 <br/>
 
+## 🌟 Open Source Contributions
+
+Merged contributions to open-source projects maintained by others.
+
+#### VoiceStudio
+
+[![PR #3834](https://img.shields.io/badge/PR%20%233834-Merged-8957e5)](https://github.com/debpalash/VoiceStudio/pull/3834) [![Stars](https://img.shields.io/github/stars/debpalash/VoiceStudio)](https://github.com/debpalash/VoiceStudio)
+
+The open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+
+**Contribution:** Fixed dub misclassifying unlisted language tags as another language (Filipino `fil` became Finnish, Estonian became Spanish). Replaced the two-letter truncation with a proper BCP-47 lookup — unknown tags now return `None` instead of silently becoming a different language.
+
+**Pull Request:** [fix(dub): stop turning unlisted language tags into another language (#3834)](https://github.com/debpalash/VoiceStudio/pull/3834) — Merged Nov 7, 2026
+
+<br/>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" width="28" /> Contact With Me
 
 <div align="center">
