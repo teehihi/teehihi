@@ -103,7 +103,7 @@ Hệ thống ôn tập tự động dưới dạng các Quiz, hỗ trợ Flashca
 - MySQL
 - Socket.IO
 
-**Repository:** [dacsanviet-app-ui](https://github.com/teehihi/dacsanviet-app-ui)
+**Repository:** [dacsanviet-app](https://github.com/teehihi/dac-san-viet-app)
 
 </td>
 </tr>
