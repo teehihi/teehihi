@@ -119,7 +119,7 @@ AI-powered code impact analysis: map a change request onto the dependency graph,
 
 ![KIROWEEN 2026 — Frankenstein](https://img.shields.io/badge/KIROWEEN_2026-Frankenstein-7654D6?style=flat-square)
 
-Game 3D góc nhìn thứ nhất về nhận biết lừa đảo: sống một ngày bình thường ở Quận 4, nhận cuộc gọi lạ qua điện thoại trong game, điều tra manh mối rồi quyết định.
+First-person 3D game about spotting scams: live an ordinary day in District 4, get a suspicious call on your in-game phone, investigate the clues, then decide.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
@@ -132,7 +132,7 @@ Game 3D góc nhìn thứ nhất về nhận biết lừa đảo: sống một ng
 
 ![AI — Real-time Detection](https://img.shields.io/badge/AI-Real--time_Detection-FF6B35?style=flat-square)
 
-Hệ thống cảnh báo cháy thời gian thực: YOLO nhận diện lửa/khói từ camera, dashboard theo dõi và cảnh báo kịp thời.
+Real-time fire alert system: YOLO detects fire and smoke from camera feeds, with a dashboard to monitor and alert in time.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-EE0000?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
