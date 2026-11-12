@@ -77,67 +77,62 @@ const tee = {
 
 ## 🔥 Outstanding project
 
+Bốn dự án mình tự hào nhất — AI, game 3D và computer vision.
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="20" /> UniQuizz
-Hệ thống ôn tập tự động dưới dạng các Quiz, hỗ trợ Flashcard và cả chế độ thi đấu realtime hỗ trợ toàn diện cho sinh viên ôn tập.
+#### [🔍 Findora](https://github.com/teehihi/findora-new)
 
-**Tech Stack:**
-- React + Vite, Tailwindcss
-- JavaScript
-- MongoDB, ExpressJS
+![Top 50 — AI Riser Vietnam 2026](https://img.shields.io/badge/Top_50-AI_Riser_Vietnam_2026-4285F4?style=flat-square)
 
-**Repository:** [UniQuizzHackathon](https://github.com/teehihi/UniQuizzHackathon)
+App tìm đồ thất lạc bằng AI: Gemini phân tích ảnh và gợi ý bài đăng, bản đồ tìm quanh khu vực, ghép đôi bài báo mất với báo nhặt để đồ tìm về đúng chủ.
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+🔗 [findora-new](https://github.com/teehihi/findora-new)
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Pot%20of%20Food.png" width="20" /> DacSanViet Mobile App
+#### [🕸️ ScopeGraph](https://github.com/teehihi/scope-graph)
 
-Ứng dụng thương mại điện tử bán đặc sản Việt Nam với các tính năng mua sắm, thanh toán và thông báo thời gian thực.
+![Hackathon — Meta AI Dev Global](https://img.shields.io/badge/Hackathon-Meta_AI_Dev_Global-0081FB?style=flat-square)
 
-**Tech Stack:**
-- React Native
-- Node.js / Express.js
-- MySQL
-- Socket.IO
+Phân tích tác động code bằng AI: map yêu cầu thay đổi vào dependency graph, chỉ ra file/symbol bị ảnh hưởng kèm bằng chứng code, tích hợp MCP cho coding agent.
 
-**Repository:** [dacsanviet-app](https://github.com/teehihi/dac-san-viet-app)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![MCP](https://img.shields.io/badge/MCP-303741?style=flat-square)
+
+🔗 [scope-graph](https://github.com/teehihi/scope-graph)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" width="20" /> XeNow
+#### [🌀 SCAMMAZE](https://github.com/teehihi/scam-maze)
 
-Hệ thống quản lý và cho thuê xe trực tuyến được phát triển theo mô hình Fullstack, cung cấp trải nghiệm đặt xe nhanh chóng và quản lý vận hành hiệu quả.
+![KIROWEEN 2026 — Frankenstein](https://img.shields.io/badge/KIROWEEN_2026-Frankenstein-7654D6?style=flat-square)
 
-**Tech Stack:**
-- Frontend: React + Vite
-- Backend: Spring Boot, Spring Data JPA
-- Database: MySQL
-- Authentication: JWT
-- API: RESTful API
+Game 3D góc nhìn thứ nhất về nhận biết lừa đảo: sống một ngày bình thường ở Quận 4, nhận cuộc gọi lạ qua điện thoại trong game, điều tra manh mối rồi quyết định.
 
-**Repository:** [xe-now-ui](https://github.com/teehihi/xe-now-ui) & [xe-now-be](https://github.com/teehihi/xe-now-be)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+🔗 [scam-maze](https://github.com/teehihi/scam-maze) · 🌐 [Live Demo](https://teehihi.github.io/scam-maze/)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="20" /> PhoenixVision Fire Detection
+#### [🔥 PhoenixVision Fire Detection](https://github.com/teehihi/phoenix-vision-fire-detection)
 
-Hệ thống cảnh báo cháy thông minh sử dụng YOLO và xử lý ảnh thời gian thực.
+![AI — Real-time Detection](https://img.shields.io/badge/AI-Real--time_Detection-FF6B35?style=flat-square)
 
-**Tech Stack:**
-- Python
-- YOLO
-- OpenCV
-- Real-time Image Processing
-- Fire & Smoke Detection
+Hệ thống cảnh báo cháy thời gian thực: YOLO nhận diện lửa/khói từ camera, dashboard theo dõi và cảnh báo kịp thời.
 
-**Repository:** [phoenix-vision-fire-detection](https://github.com/teehihi/phoenix-vision-fire-detection)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-EE0000?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+🔗 [phoenix-vision-fire-detection](https://github.com/teehihi/phoenix-vision-fire-detection)
 
 </td>
 </tr>
