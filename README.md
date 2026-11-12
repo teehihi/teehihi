@@ -146,7 +146,7 @@ Real-time fire alert system: YOLO detects fire and smoke from camera feeds, with
 
 ## 🌟 Open Source Contributions
 
-Merged contributions to open-source projects maintained by others.
+Contributions to open-source projects maintained by others.
 
 #### VoiceStudio
 
@@ -157,6 +157,12 @@ The open-source, fully-local ElevenLabs alternative — voice cloning, voice des
 **Contribution:** Fixed dub misclassifying unlisted language tags as another language (Filipino `fil` became Finnish, Estonian became Spanish). Replaced the two-letter truncation with a proper BCP-47 lookup — unknown tags now return `None` instead of silently becoming a different language.
 
 **Pull Request:** [fix(dub): stop turning unlisted language tags into another language (#3834)](https://github.com/debpalash/VoiceStudio/pull/3834) — Merged Nov 7, 2026
+
+[![PR #3833](https://img.shields.io/badge/PR%20%233833-Shipped%20in%20v0.5.8--beta.2-8957e5)](https://github.com/debpalash/VoiceStudio/pull/3833)
+
+**Contribution:** Fixed mlx-audio Kokoro ignoring preset voices — Portuguese text was spoken with the English `af_heart` voice. Added 54 Kokoro preset voices with language-matched defaults, so each voice now speaks in its own language.
+
+**Pull Request:** [fix(mlx-audio): expose Kokoro preset voices and speak the requested language voice (#3833)](https://github.com/debpalash/VoiceStudio/pull/3833) — Closed Nov 9, 2026 as merged-in-spirit; fix shipped in [v0.5.8-beta.2](https://github.com/debpalash/VoiceStudio/releases/tag/v0.5.8-beta.2), credited in the changelog
 
 <br/>
 
