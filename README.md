@@ -85,7 +85,7 @@ Four projects I'm most proud of — AI, 3D games, and computer vision.
 
 <img src="https://raw.githubusercontent.com/teehihi/teehihi/main/assets/findora-banner.webp" width="100%" alt="Findora — Intelligent Lost & Found" />
 
-#### <font color="#1D4ED8">🔍 Findora</font>
+🔍 ![Findora](https://img.shields.io/badge/Findora-1D4ED8?style=for-the-badge)
 
 ![Top 50 — AI Riser Vietnam 2026](https://img.shields.io/badge/Top_50-AI_Riser_Vietnam_2026-4285F4?style=flat-square)
 
@@ -100,7 +100,7 @@ AI-powered lost & found app: Gemini analyses photos and drafts posts, a map to s
 
 <img src="https://raw.githubusercontent.com/teehihi/teehihi/main/assets/scopegraph-banner.webp" width="100%" alt="ScopeGraph — Understand the Impact Before You Change Code" />
 
-#### <font color="#526BEE">🕸️ ScopeGraph</font>
+🕸️ ![ScopeGraph](https://img.shields.io/badge/ScopeGraph-526BEE?style=for-the-badge)
 
 ![Hackathon — Meta AI Dev Global](https://img.shields.io/badge/Hackathon-Meta_AI_Dev_Global-0081FB?style=flat-square)
 
@@ -115,7 +115,7 @@ AI-powered code impact analysis: map a change request onto the dependency graph,
 <tr>
 <td width="50%" valign="top">
 
-#### <font color="#7654D6">🌀 SCAMMAZE</font>
+🌀 ![SCAMMAZE](https://img.shields.io/badge/SCAMMAZE-7654D6?style=for-the-badge)
 
 ![KIROWEEN 2026 — Frankenstein](https://img.shields.io/badge/KIROWEEN_2026-Frankenstein-7654D6?style=flat-square)
 
@@ -128,7 +128,7 @@ First-person 3D game about spotting scams: live an ordinary day in District 4, g
 </td>
 <td width="50%" valign="top">
 
-#### <font color="#EA580C">🔥 PhoenixVision Fire Detection</font>
+🔥 ![PhoenixVision Fire Detection](https://img.shields.io/badge/PhoenixVision_Fire_Detection-EA580C?style=for-the-badge)
 
 ![AI — Real-time Detection](https://img.shields.io/badge/AI-Real--time_Detection-FF6B35?style=flat-square)
 
