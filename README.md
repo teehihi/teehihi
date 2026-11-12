@@ -77,17 +77,19 @@ const tee = {
 
 ## 🔥 Outstanding project
 
-Bốn dự án mình tự hào nhất — AI, game 3D và computer vision.
+Four projects I'm most proud of — AI, 3D games, and computer vision.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://raw.githubusercontent.com/teehihi/findora-new/main/assets/readme/findora-ai-riser.png" width="100%" alt="Findora — Intelligent Lost & Found" />
+
 #### [🔍 Findora](https://github.com/teehihi/findora-new)
 
 ![Top 50 — AI Riser Vietnam 2026](https://img.shields.io/badge/Top_50-AI_Riser_Vietnam_2026-4285F4?style=flat-square)
 
-App tìm đồ thất lạc bằng AI: Gemini phân tích ảnh và gợi ý bài đăng, bản đồ tìm quanh khu vực, ghép đôi bài báo mất với báo nhặt để đồ tìm về đúng chủ.
+AI-powered lost & found app: Gemini analyses photos and drafts posts, a map to search nearby, and matching that pairs lost reports with found reports so belongings find their way home.
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
@@ -96,15 +98,17 @@ App tìm đồ thất lạc bằng AI: Gemini phân tích ảnh và gợi ý bà
 </td>
 <td width="50%" valign="top">
 
+<img src="https://raw.githubusercontent.com/teehihi/teehihi/main/assets/scopegraph-banner.png" width="100%" alt="ScopeGraph — Understand the Impact Before You Change Code" />
+
 #### [🕸️ ScopeGraph](https://github.com/teehihi/scope-graph)
 
 ![Hackathon — Meta AI Dev Global](https://img.shields.io/badge/Hackathon-Meta_AI_Dev_Global-0081FB?style=flat-square)
 
-Phân tích tác động code bằng AI: map yêu cầu thay đổi vào dependency graph, chỉ ra file/symbol bị ảnh hưởng kèm bằng chứng code, tích hợp MCP cho coding agent.
+AI-powered code impact analysis: map a change request onto the dependency graph, pinpoint affected files and symbols with code evidence, and expose it to coding agents via MCP.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![MCP](https://img.shields.io/badge/MCP-303741?style=flat-square)
 
-🔗 [scope-graph](https://github.com/teehihi/scope-graph)
+🔗 [scope-graph](https://github.com/teehihi/scope-graph) · 🌐 [Live Demo](https://www.scopegraph.top/)
 
 </td>
 </tr>
